@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "dependencies": {
     "debug": "?",
+    $ npm install debug
     "ejs": "^2.5.6",
     "hoek": "^4.0.0",
     "npm": "^6.4.1",
